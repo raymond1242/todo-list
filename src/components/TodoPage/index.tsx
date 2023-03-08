@@ -19,8 +19,14 @@ const INITIAL_STATE = [
     },
     {
         key: 3,
-        title: 'Todo 2',
+        title: 'Todo 3',
         description: '',
+        completed: false,
+    },
+    {
+        key: 4,
+        title: 'Todo 4',
+        description: 'Todo 4 description',
         completed: false,
     },
 ];
