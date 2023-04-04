@@ -1,5 +1,5 @@
 {
-  "name": "website",
+  "name": "todo-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -50,5 +50,8 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.2.7"
-  }
+  },
+  "main": "source/index.tsx",
+  "repository": "git@github.com:raymond1242/todo-list.git",
+  "license": "MIT"
 }
